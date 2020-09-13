@@ -1,0 +1,4 @@
+platform :ios, '7.0'
+target '折叠单元格' do
+pod 'Masonry'
+end
